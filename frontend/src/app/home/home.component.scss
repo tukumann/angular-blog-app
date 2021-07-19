@@ -1,0 +1,30 @@
+.figure {
+    position: relative;
+    height: 400px;
+    overflow: hidden;
+
+    color: #fff;
+    padding-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.photo {
+    position: absolute;
+    width: 100%;
+    margin: -10% 0 0 0;
+    opacity: 0.45;
+}
+
+.content {
+    color: #111;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
+
+.card-body {
+    margin-top: -1.5rem;
+}
+
+a {
+    cursor: pointer;
+}
